@@ -1,0 +1,111 @@
+body{
+    font-family: 'Crimson Text', serif;
+}
+.header_logo{
+    height: 60px;
+}
+.banner-part {
+    background-color: #ddd;
+    height: 365px;
+    padding: 95px 0px;
+}
+.banner-img{
+    height: 271px;
+}
+.sub-img{
+    width: 90%;
+}
+.number{
+    background-color: #8490FF;
+    color: white;
+}
+.number-sy span{
+    font-size: 30px;
+    font-weight: bold;
+}
+.number-sy p {
+    font-weight: 100;
+    font-size: 25px;
+}
+.info{
+    background-color: #DDD;
+}
+.taka-item{
+    background-color: #fff;
+}
+.taka-item span {
+    display: inline-block;
+    background-color: #DDD;
+    height: 60px;
+    border-radius: 50%;
+    width: 60px;
+    line-height: 61px;
+    font-size: 26px;
+}
+.ss{
+    transition: .5s;
+}
+.taka-item:hover .ss{
+    background-color: black;
+    color: white;
+    outline: none;
+}
+.rr{
+    transition: 1s;
+}
+.taka-item:hover .rr{
+    transform: rotateY(360deg)
+}
+.memb img{
+    height: 57px;
+    top: -4px;
+    left: 20px;
+    display: inline-block;
+}
+.member-item {
+    box-shadow: 5px 5px 11px 1px black;
+}
+.members{
+    padding: 190px 0px;
+}
+.position-relative {
+    position: relative!important;
+    padding: 49px;
+}
+.m-con {
+    padding: 30px 0px;
+}
+.from{
+    background-color: #F9F9FF;
+}
+.pp {
+    word-spacing: 50px;
+}
+.w{
+    width:49%;
+}
+.info-p{
+    margin: 10px 0px;
+}
+.info-p{
+    margin: 70px 0px;
+}
+footer{
+    background-color: black;
+    padding: 15px 0px;
+    text-align: center;
+}
+footer p{
+    color: white;
+    font-size: 30px;
+}
+footer p span{
+    color:orange;
+}
+.sh{
+    box-shadow: 7px 6px 29px -6px rgba(99,188,252,0.74);
+}
+.sub-banner_contanet {
+    margin-left: 36px;
+    padding-top: 70px;
+}
